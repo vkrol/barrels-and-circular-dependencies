@@ -1,0 +1,12 @@
+{
+  "name": "barrels-and-circular-dependencies",
+  "private": true,
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "6.5.5",
+    "webpack": "4.6.0",
+    "webpack-cli": "2.0.14"
+  }
+}
